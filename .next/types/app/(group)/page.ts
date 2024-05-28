@@ -1,4 +1,4 @@
-// File: C:\Users\abhin\Desktop\Abhinav\Learning\Javascript\Nodejs\Next.js\food_app\src\app\(group)\page.js
+// File: C:\Users\abhin\Desktop\Abhinav\Learning\Javascript\Nodejs\in-progress\food_app\src\app\(group)\page.js
 import * as entry from '../../../../src/app/(group)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
